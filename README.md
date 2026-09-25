@@ -35,7 +35,7 @@ For a new checkout, run the bootstrap script:
 
 It creates `.venv`, installs `requirements.txt`, creates `.env` from `.env.example` if needed, creates `.chainlit/`, and enables local session persistence with `MEMORY_PERSIST_PATH=.chainlit/session_memory.json`.
 
-Manual setup is also fine:
+Manual setup, is also fine:
 
 1. Install dependencies (Python 3.11):
    ```bash
